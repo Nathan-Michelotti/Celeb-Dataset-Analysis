@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+umap-learn
+plotly
+tqdm
+notebook
